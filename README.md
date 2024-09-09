@@ -1,7 +1,7 @@
 # Hola, soy [Hans Ortiz](https://github.com/HansOr04) 👋
 
 <div align="center">
-  <img src="https://imgur.com/glJwGRg" alt="Banner" width="800" height="200">
+  <img src="https://i.imgur.com/glJwGRg.png" alt="Banner" width="800" height="200">
 </div>
 
 <div align="center">
