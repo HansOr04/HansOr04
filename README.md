@@ -70,7 +70,7 @@ Sistema integral para la administración de farmacias desarrollado con Java y Va
 
 ¿Tienes una idea interesante o buscas colaborar en un proyecto? ¡Me encantaría escucharte!
 
-[![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hansalazar04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hans-ortiz)
 
 </div>
