@@ -15,24 +15,6 @@ Aquí tienes una versión mejorada y más visual de tu README:
 *📚 Estudiante de Ingeniería en Software*  
 *💡 Apasionado por crear soluciones tecnológicas innovadoras*
 
-## About Me </> 
-
-# Languages
-languages = ["Java", "Python", "JavaScript", "C"]
-
-# Tech Stack
-technologies = {
-  "Frontend": ["React", "HTML5", "CSS3"],
-  "Backend": ["Node.js", "Spring Boot", "MySQL"], 
-  "Tools": ["Git", "Docker", "AWS"]
-}
-
-# Core Values
-principles = ["Clean Code", "Mobile First", "UX/UI"]
-
-# Life Balance
-hobbies = ["🎮 Gaming", "📚 Reading", "🚴 Cycling"]
-
 ## 🛠️ Mi Stack Tecnológico
 
 ### 🔧 **Lenguajes Principales**
@@ -101,6 +83,6 @@ hobbies = ["🎮 Gaming", "📚 Reading", "🚴 Cycling"]
 </p>
 
 <div align="center">
-  <i>✨ "Primero resuelve el problema. Luego escribe el código." - John Johnson ✨</i>
+  <i>✨ "Primero resuelve el problema. Luego escribe el código."✨</i>
 </div>
 ```
