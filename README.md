@@ -1,5 +1,3 @@
-Aquí tienes una versión mejorada y más visual de tu README:
-
 <!-- Encabezado con animación -->
 <div align="center">
   <img src="https://i.imgur.com/glJwGRg.png" alt="Banner" width="100%" height="auto">
