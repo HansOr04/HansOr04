@@ -1,49 +1,89 @@
-<!-- Encabezado con animación -->
+<br clear="both">
+
 <div align="center">
-  <img src="https://i.imgur.com/glJwGRg.png" alt="Banner" width="100%" height="auto">
-  
-  [![GitHub HansOr04](https://img.shields.io/github/followers/HansOr04?logo=github&style=for-the-badge&color=181717&labelColor=0D1117)](https://github.com/HansOr04)
-  [![LinkedIn](https://img.shields.io/badge/-Hans_Ortiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hans-ortiz)
-  [![Twitter](https://img.shields.io/badge/-@hans__ortiz__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu_usuario)
+  <img height="170" src="https://i.imgur.com/glJwGRg.png"  />
 </div>
 
-<!-- Sección de presentación -->
-## 👋 ¡Hola! Soy Hans Ortiz 
-*🚀 Desarrollador Full Stack de Ecuador 🇪🇨*  
-*📚 Estudiante de Ingeniería en Software*  
-*💡 Apasionado por crear soluciones tecnológicas innovadoras*
+[![GitHub HansOr04](https://img.shields.io/github/followers/HansOr04?logo=github&style=for-the-badge&color=181717&labelColor=0D1117)](https://github.com/HansOr04)
+[![LinkedIn](https://img.shields.io/badge/-Hans_Ortiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hans-ortiz)
+
+<h1 align="left">👋 ¡Hola! Soy Hans Ortiz</h1>
+
+<h3 align="left">🚀 Desarrollador Full Stack de Ecuador 🇪🇨<br>📚 Estudiante de Ingeniería en Software<br>💡 Apasionado por crear soluciones tecnológicas innovadoras</h3>
 
 ## 🛠️ Mi Stack Tecnológico
 
-### 🔧 **Lenguajes Principales**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🔧 Lenguajes Principales
 
-### 🌐 **Desarrollo Web**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
 
-### 🗄️ **Backend & Bases de Datos**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🌐 Desarrollo Web
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+### 🗄️ Backend
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+</div>
+
+### 🗂️ Bases de Datos
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
 
 ## 🚀 Proyectos Destacados
 
-### 1. 🏡 Buscador de Departamentos | [Demo](https://proyecto-department.vercel.app)
-*Plataforma inmobiliaria con búsqueda inteligente*
+### 🏡 Buscador de Departamentos | [Demo](https://proyecto-department.vercel.app)
+
+**Plataforma inmobiliaria con búsqueda inteligente**
+
 - **Stack:** React, Node.js, MongoDB
 - **Features:**
   - 🔍 Filtros avanzados con geolocalización
   - 📱 Diseño responsive con PWA
   - 🔄 Actualizaciones en tiempo real
 
-[![Ver Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/usuario/repo)
+### 💊 Sistema de Gestión Farmacéutica | [Demo](https://proyecto-department.vercel.app)
 
-### 2. 💊 Sistema de Gestión Farmacéutica | [Código](https://github.com/HansOr04/ProyectoJavaFarmacia.git)
-*Sistema integral para administración de farmacias*
-- **Stack:** Java, Vaadin, MySQL
+**Sistema integral para administración de farmacias**
+
+- **Stack:** Spring Boot, Next.js, PostgreSQL
 - **Features:**
   - 📊 Dashboard interactivo
   - 📈 Gestión inteligente de inventario
@@ -52,35 +92,29 @@
 ## 📈 Mis Estadísticas
 
 <div align="center">
-  <a href="https://github.com/HansOr04">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HansOr04&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HansOr04&layout=compact&theme=nightowl&langs_count=6"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=HansOr04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=es&hide_border=false&order=1" height="200" alt="stats graph" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HansOr04&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="177" alt="languages graph"  />
 </div>
 
-<!-- Gráfico de actividad -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HansOr04&theme=react-dark&hide_border=true&area=true" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HansOr04/HansOr04/output/snake.svg" alt="Snake animation" />
+</div>
 
 ## 📬 Contacto
 
 <div align="center">
-  
-  [![Gmail](https://img.shields.io/badge/-hansalazar04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hansalazar04@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-Hans_Ortiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hans-ortiz)
-  [![Portafolio](https://img.shields.io/badge/-Portafolio_Personal-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portafolio.com)
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HansOr04&label=Profile+Views&color=blue&style=flat" alt="Visitas al perfil" />
-  <a href="https://github.com/HansOr04?tab=repositories">
-    <img alt="Total Repositories" src="https://img.shields.io/badge/Total_Repos-8-blue?style=flat">
+  <a href="https://www.linkedin.com/in/hans-ortiz">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+  <a href="https://www.instagram.com/hans_ortiz">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:hansalazar04@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
 <div align="center">
-  <i>✨ "Primero resuelve el problema. Luego escribe el código."✨</i>
+  <h4>✨ "Primero resuelve el problema. Luego escribe el código." ✨</h4>
 </div>
-```
