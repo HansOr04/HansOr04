@@ -3,10 +3,14 @@
 <div align="center">
   <img height="170" src="https://i.imgur.com/glJwGRg.png"  />
 </div>
+
 <div align="center">
+  
 [![GitHub HansOr04](https://img.shields.io/github/followers/HansOr04?logo=github&style=for-the-badge&color=181717&labelColor=0D1117)](https://github.com/HansOr04)
 [![LinkedIn](https://img.shields.io/badge/-Hans_Ortiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hans-ortiz)
+
 </div>
+
 <h1 align="left">👋 ¡Hola! Soy Hans Ortiz</h1>
 
 <h3 align="left">🚀 Desarrollador Full Stack de Ecuador 🇪🇨<br>📚 Estudiante de Ingeniería en Software<br>💡 Apasionado por crear soluciones tecnológicas innovadoras</h3>
